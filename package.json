@@ -1,0 +1,21 @@
+{
+  "name": "com.unity.debuggui",
+  "version": "2.0.0",
+  "displayName": "Debug GUI",
+  "description": "Debug and monitor runtime data",
+  "unity": "2021.2",
+  "unityRelease": "7f1",
+  "documentationUrl": "https://weaverdev.itch.io/",
+  "samples": [
+    {
+      "displayName": "Example",
+      "description": "Sample scene for using debug attributes",
+      "path": "Samples~/Sample1"
+    }
+  ],
+  "author": {
+    "name": "WeaverDev",
+    "email": "weaver.developer@gmail.com",
+    "url": "http://weaverdev.itch.io/"
+  }
+}
